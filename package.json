@@ -1,4 +1,5 @@
 {
+  "name": "semver",
   "devDependencies": {
     "@commitlint/cli": "^20.3.1",
     "@commitlint/config-conventional": "^20.3.1",
@@ -6,7 +7,6 @@
     "@semantic-release/commit-analyzer": "^13.0.1",
     "@semantic-release/git": "^10.0.1",
     "@semantic-release/github": "^12.0.2",
-    "@semantic-release/npm": "^13.1.3",
     "@semantic-release/release-notes-generator": "^14.1.0",
     "husky": "^9.1.7",
     "semantic-release": "^25.0.2"
@@ -14,5 +14,9 @@
   "scripts": {
     "release": "semantic-release",
     "prepare": "husky"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/urris-dev/semver.git"
   }
 }
