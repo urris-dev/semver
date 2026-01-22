@@ -14,9 +14,5 @@
   "scripts": {
     "release": "semantic-release",
     "prepare": "husky"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/urris-dev/semver.git"
   }
 }
