@@ -1,3 +1,15 @@
+# [2.1.0](https://github.com/urris-dev/semver/compare/v2.0.0...v2.1.0) (2026-01-22)
+
+
+### Bug Fixes
+
+* **DEVOP-52:** Add typing to created func ([ef605a1](https://github.com/urris-dev/semver/commit/ef605a173a7a57ba900c0462c4a8a0a9389d4c06))
+
+
+### Features
+
+* **DEVOP-52:** Add new func ([248b523](https://github.com/urris-dev/semver/commit/248b523f0229a30abfd00bbed2d375d1bd174f14))
+
 # [2.0.0](https://github.com/urris-dev/semver/compare/v1.0.0...v2.0.0) (2026-01-22)
 
 
