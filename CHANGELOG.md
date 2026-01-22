@@ -1,3 +1,13 @@
+# [2.0.0](https://github.com/urris-dev/semver/compare/v1.0.0...v2.0.0) (2026-01-22)
+
+
+* feat!: Change main.py ([5be98d8](https://github.com/urris-dev/semver/commit/5be98d8be0963b2bb83342d0a2ee6b24cd94d17a))
+
+
+### BREAKING CHANGES
+
+* change main.py
+
 # 1.0.0 (2026-01-22)
 
 
